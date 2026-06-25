@@ -1,0 +1,13 @@
+torch
+torchvision
+transformers>=4.45
+datasets>=2.20
+evaluate
+accelerate
+safetensors
+scikit-learn
+matplotlib
+pillow
+numpy
+jupyterlab
+ipykernel
